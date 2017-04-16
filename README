@@ -1,3 +1,12 @@
+PATH TO JAVA ACTIVITIES/FRAGMENTS: app/src/main/java/com/example/riaz/appversion31/
+PATH TO XML LAYOUTS: app/src/main/res/layout
+PATH TO MANIFEST: app/src/main
+
+Some tiny changes were also made in XML files located in app/src/main/res/values
+
+
+
+
 Working to add:
   A map that displays where the user has travelled for the day
     using google maps API
