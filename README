@@ -9,6 +9,5 @@ Some tiny changes were also made in XML files located in app/src/main/res/values
 
 Working to add:
   A map that displays where the user has travelled for the day
-    using google maps API
   Connection with a database to allow people to make friends. Friends can share data and feats with each other
-    (Look into "Volley". It may be useful for this...)
+   
