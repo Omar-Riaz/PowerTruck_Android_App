@@ -5,7 +5,7 @@ PATH TO MANIFEST: app/src/main
 I coded in Android Studio, so I provided specific paths to avoid possible confusion about the gradle build scripts and other IDE specific files...
 
 
-Working to add:
+Working to add in the next version:
   A map that displays where the user has travelled for the day
   Connection with a database to allow people to make friends. Friends can share data and feats with each other
    
