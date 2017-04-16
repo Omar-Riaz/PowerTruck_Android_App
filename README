@@ -2,8 +2,6 @@ PATH TO JAVA ACTIVITIES/FRAGMENTS: app/src/main/java/com/example/riaz/appversion
 PATH TO XML LAYOUTS: app/src/main/res/layout
 PATH TO MANIFEST: app/src/main
 
-Some tiny changes were also made in XML files located in app/src/main/res/values
-
 I coded in Android Studio, so I provided specific paths to avoid possible confusion about the gradle build scripts and other IDE specific files...
 
 
