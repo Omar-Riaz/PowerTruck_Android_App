@@ -4,7 +4,7 @@ PATH TO MANIFEST: app/src/main
 
 Some tiny changes were also made in XML files located in app/src/main/res/values
 
-
+I coded in Androdi Studio, so I provided specific parths to avoid possible confusion about the gradle build scripts and other IDE specific files...
 
 
 Working to add:
