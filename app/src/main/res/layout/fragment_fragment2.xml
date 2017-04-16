@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id = "@+id/fragment_fragment2"
+    tools:context="com.example.riaz.appversion31.Fragment2">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:text="X"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewh"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textViewH"
+        android:layout_marginTop="42dp"
+        style="@android:style/Widget.Holo.TextView.SpinnerItem"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/background_dark"
+        />
+
+    <TextView
+        android:text="units"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewu"
+        android:textColor="@android:color/background_dark"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textViewh"
+        android:layout_marginTop="77dp"/>
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/battery2"
+        android:id="@+id/imageView1"
+        android:scaleY="0.8"
+        android:scaleX="0.8"
+        android:layout_below="@+id/textViewh"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="HEADING"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:id="@+id/textViewh"
+        android:scaleX="0.9"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp" />
+</RelativeLayout>
