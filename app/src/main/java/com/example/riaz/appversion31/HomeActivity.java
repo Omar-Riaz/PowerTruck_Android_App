@@ -30,7 +30,6 @@ public class HomeActivity extends AppCompatActivity implements Fragment1.OnFragm
     //private Switch switch1, switch2;
     private Toast toast;
 
-    //Let's see if checkout works the way that I expect it to work or something!
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
